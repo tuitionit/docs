@@ -3,13 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Tuitionit Documentation's documentation!
+Welcome to Tuitionit Documentation!
 ===================================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   administrators/index
+   teachers/index
+   students/index
+   parents/index
+   developers/index
 
 
 
@@ -19,4 +25,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
